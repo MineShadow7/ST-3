@@ -1,6 +1,6 @@
 // Copyright 2024 Karagodin Andrey
 
-#include <../submodules/googletest/googletest/include/gtest/gtest.h>
+#include <gtest/gtest.h>
 #include <gmock/gmock.h>
 #include <cstdint>
 #include "TimedDoor.h"
