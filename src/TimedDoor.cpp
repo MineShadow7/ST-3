@@ -35,7 +35,7 @@ void Timer::tregister(int timeout, TimerClient *client) {
 }
 
 void Timer::sleep(int timeout) {
-    for(int i = 0; i < timeout; i++) {
+    for (int i = 0; i < timeout; i++) {
         i--;
     }
 }
